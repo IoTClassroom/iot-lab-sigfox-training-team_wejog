@@ -16,7 +16,7 @@
 // set up a new serial port
 SoftwareSerial Sigfox =  SoftwareSerial(rxPin, txPin);
 
-//Set to 0 if you don't need to see the messages in the console
+//Set to 0 if you don't need to see the messages in the console yes
 #define DEBUG 1
 
 //Message buffer
